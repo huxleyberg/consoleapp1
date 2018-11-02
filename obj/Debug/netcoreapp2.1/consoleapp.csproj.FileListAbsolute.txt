@@ -1,0 +1,11 @@
+/Users/chidi/Documents/projects/microservices/console/consoleapp/bin/Debug/netcoreapp2.1/consoleapp.deps.json
+/Users/chidi/Documents/projects/microservices/console/consoleapp/bin/Debug/netcoreapp2.1/consoleapp.runtimeconfig.json
+/Users/chidi/Documents/projects/microservices/console/consoleapp/bin/Debug/netcoreapp2.1/consoleapp.runtimeconfig.dev.json
+/Users/chidi/Documents/projects/microservices/console/consoleapp/bin/Debug/netcoreapp2.1/consoleapp.dll
+/Users/chidi/Documents/projects/microservices/console/consoleapp/bin/Debug/netcoreapp2.1/consoleapp.pdb
+/Users/chidi/Documents/projects/microservices/console/consoleapp/obj/Debug/netcoreapp2.1/consoleapp.csprojAssemblyReference.cache
+/Users/chidi/Documents/projects/microservices/console/consoleapp/obj/Debug/netcoreapp2.1/consoleapp.csproj.CoreCompileInputs.cache
+/Users/chidi/Documents/projects/microservices/console/consoleapp/obj/Debug/netcoreapp2.1/consoleapp.AssemblyInfoInputs.cache
+/Users/chidi/Documents/projects/microservices/console/consoleapp/obj/Debug/netcoreapp2.1/consoleapp.AssemblyInfo.cs
+/Users/chidi/Documents/projects/microservices/console/consoleapp/obj/Debug/netcoreapp2.1/consoleapp.dll
+/Users/chidi/Documents/projects/microservices/console/consoleapp/obj/Debug/netcoreapp2.1/consoleapp.pdb
