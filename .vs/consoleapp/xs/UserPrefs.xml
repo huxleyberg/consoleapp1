@@ -1,9 +1,8 @@
 ﻿<Properties StartupConfiguration="{2FE4EB86-EFAA-477B-9570-7609756F9351}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="consoleapp Status">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
       <File FileName="Program.cs" Line="17" Column="38" />
       <File FileName="Startup.cs" Line="19" Column="50" />
-      <File FileName="consoleapp Status" />
     </Files>
     <Pads>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
